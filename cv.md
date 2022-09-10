@@ -2,10 +2,10 @@
 
 ### Contacts
 ------------
-* [Phone](tel:+375295765091) - [+375295765091](tel:+375295765091)
-* [VK](https://vk.com/id76221632) - https://vk.com/id76221632
-* [E-Mail](mailto:petya-97_97@mail.ru) - [petya-97_97@mail.ru](mailto:petya-97_97@mail.ru)
-* [Telegam](https://t.me/petro1909) - https://t.me/petro1909
+* Phone - +375295765091
+* VK - https://vk.com/id76221632
+* E-Mail - [petya-97_97@mail.ru](mailto:petya-97_97@mail.ru)
+* Telegam - [petro1909]https://t.me/petro1909
 * Discord - [petro1909_(@petro1909)](https://discordapp.com/users/545270498498707474)
 
 ### Description
