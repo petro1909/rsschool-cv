@@ -3,7 +3,7 @@
 ### Contacts
 ------------
 * Phone - +375295765091
-* VK - https://vk.com/id76221632
+* VK - [Пётр Чирич](https://vk.com/id76221632)
 * E-Mail - [petya-97_97@mail.ru](mailto:petya-97_97@mail.ru)
 * Telegam - [petro1909](https://t.me/petro1909)
 * Discord - [petro1909_(@petro1909)](https://discordapp.com/users/545270498498707474)
