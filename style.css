@@ -1,0 +1,15 @@
+main section {
+    margin: 20px;
+}
+h3, h4 {
+    margin: 1px;
+}
+p {
+    margin: 5px;
+    text-indent: 25px;
+    text-align: justify;
+}
+code {
+    display: block;
+    white-space: pre-wrap;
+}
